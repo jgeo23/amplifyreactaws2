@@ -7,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-<<<<<<< HEAD
         <h1>Hello from V2!</h1>
-=======
         <p>
           Edit <code>src/App.js</code> and save to Roxie.
         </p>
@@ -21,7 +19,6 @@ function App() {
         >
           Learn React
         </a>
->>>>>>> 86780ce539cbc72241aada32fb0dff1a98b97aea
       </header>
     </div>
   );
